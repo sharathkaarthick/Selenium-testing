@@ -2,7 +2,7 @@ This is a Selenium testing program done with Java.<br/>
 
 Website used for testing : https://best-mobile-recommender.netlify.app/ <br/>
 
-Files required for Selenium Testing : 
+Files required for Selenium Testing : <br/>
 Selenium jar files (download as per your preferred language) : https://www.selenium.dev/downloads/ <br/>
 ChromeDriver (download as per your Google Chrome version): https://chromedriver.chromium.org/downloads <br/>
 
